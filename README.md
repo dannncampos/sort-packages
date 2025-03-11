@@ -26,3 +26,22 @@ Imagine you work in a robotic automation factory, and your objective is to write
 Implement the function sort(width, height, length, mass).
 (units are centimeters for the dimensions and kilogram for the mass).
 This function must return a string: the name of the stack where the package should go.
+
+## Prerequisites
+
+- Python 3.x
+
+## Running Tests
+The tests for the sort function are written using Python's built-in unittest framework. To run the tests, follow these steps:
+
+BASH
+
+'''python -m unittest .\test_sort_packages.py'''
+
+
+## Usage
+The sort function is defined in the sort_packages.py
+
+'''python sort_packages.py'''
+
+Follow the instruction for the input in the screen.
